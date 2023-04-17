@@ -44,7 +44,7 @@ h1 {
 
 h2 {
   font-family: 'Philosopher', sans-serif;
-  font-size: 22px;
+  font-size: 26px;
   font-weight: 600;
   letter-spacing: 0.3px;
   text-align: left;
@@ -79,9 +79,9 @@ font-family: 'Mulish', sans-serif;
 
 .myButton {
   border-radius: 28px;
-  border: 1px solid #ffffff;
+  border: 1px solid black;
   cursor: pointer;
-  color: #ffffff;
+  color: black;
   font-size: 20px;
   padding: 16px 31px;
   text-decoration: none;
@@ -89,7 +89,7 @@ font-family: 'Mulish', sans-serif;
 }
 
 .myButton:hover {
-    background-color:#e69708;
+    background-color: green;
 }
 
 .myButton:active {
