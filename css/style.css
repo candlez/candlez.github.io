@@ -43,7 +43,7 @@ h1 {
 }
 
 h2 {
-  font-family: 'Philosopher', sans-serif;
+  font-family: 'Mulish', sans-serif;
   font-size: 26px;
   font-weight: 600;
   letter-spacing: 0.3px;
@@ -79,9 +79,9 @@ font-family: 'Mulish', sans-serif;
 
 .myButton {
   border-radius: 28px;
-  border: 1px solid black;
+  border: 1px solid white;
   cursor: pointer;
-  color: black;
+  color: white;
   font-size: 20px;
   padding: 16px 31px;
   text-decoration: none;
